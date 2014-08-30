@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  class: MyString
+  student: MyString
+  subject: MyString
+  mark: 1.5
+
+two:
+  class: MyString
+  student: MyString
+  subject: MyString
+  mark: 1.5
